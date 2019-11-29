@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerissasunit2k/Backend.git"
+  },
+  "author": "Nerissa Sunit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nerissasunit2k/Backend/issues"
+  },
+  "homepage": "https://github.com/nerissasunit2k/Backend#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.12"
+  }
+}
